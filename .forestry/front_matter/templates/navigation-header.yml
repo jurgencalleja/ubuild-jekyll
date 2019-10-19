@@ -10,6 +10,8 @@ fields:
 - type: file
   name: logo
   label: Logo
+  default: "/uploads/2019/10/19/octavo-logo.svg"
+  description: octavo logo
 - type: field_group_list
   name: navigation
   label: Navigation
