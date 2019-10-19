@@ -4,6 +4,11 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: All
+  create: all
+  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: K-12 Schools
