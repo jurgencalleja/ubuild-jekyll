@@ -70,6 +70,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+menu:
+  main:
+    weight: 2
+    title: Organisations
 
 ---
 foo bar
