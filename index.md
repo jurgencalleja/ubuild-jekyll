@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Homepage
+title: Homepage - original
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
+  - link: "/"
     link_text: Features
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
