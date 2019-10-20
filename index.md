@@ -11,13 +11,9 @@ page_sections:
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    button_text: Login
 - template: hero-banner-w-image
   block: hero-2
   headline: K-12 Schools
@@ -29,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2019/10/19/octavo_bg.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
